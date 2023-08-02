@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "This is an uptime monitor and status page for AjibsBaba's Projects"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/AjibsBaba/my-projects).
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/AjibsBaba/uptime).
   navbar:
     - title: Status
       href: /
