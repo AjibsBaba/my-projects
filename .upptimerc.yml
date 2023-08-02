@@ -13,7 +13,7 @@ assignees:
 
 status-website:
   theme: light
-  cname: uptime.ajibsbaba.com
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "This is an uptime monitor and status page for AjibsBaba's Projects"
