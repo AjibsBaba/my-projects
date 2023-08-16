@@ -4,35 +4,39 @@
     "url": "https://www.ajibsbaba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ajibsbaba.com.ico",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 264,
-    "timeWeek": 331,
-    "timeMonth": 382,
-    "timeYear": 382,
-    "dailyMinutesDown": {}
+    "time": 379,
+    "timeDay": 329,
+    "timeWeek": 316,
+    "timeMonth": 379,
+    "timeYear": 379,
+    "dailyMinutesDown": {
+      "2023-08-16": 1
+    }
   },
   {
     "name": "TRM Web App",
     "url": "https://trm.ajibsbaba.com",
     "icon": "https://icons.duckduckgo.com/ip3/trm.ajibsbaba.com.ico",
     "slug": "trm-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 203,
-    "timeWeek": 236,
-    "timeMonth": 278,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "time": 272,
+    "timeDay": 164,
+    "timeWeek": 216,
+    "timeMonth": 272,
+    "timeYear": 272,
+    "dailyMinutesDown": {
+      "2023-08-16": 0
+    }
   }
 ]
