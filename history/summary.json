@@ -4,7 +4,7 @@
     "url": "https://www.ajibsbaba.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ajibsbaba.com.ico",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,11 @@
     "uptimeYear": "99.90%",
     "time": 414,
     "timeDay": 211,
-    "timeWeek": 273,
+    "timeWeek": 274,
     "timeMonth": 307,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2023-10-27": 0,
       "2023-09-13": 37,
       "2023-09-12": 24,
       "2023-09-11": 59
