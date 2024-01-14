@@ -27,7 +27,7 @@
     "url": "https://trm.ajibsbaba.com",
     "icon": "https://icons.duckduckgo.com/ip3/trm.ajibsbaba.com.ico",
     "slug": "trm-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 168,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2024-01-14": 0,
       "2023-09-11": 58
     }
   }
