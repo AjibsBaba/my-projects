@@ -28,19 +28,19 @@
     "url": "https://trm.ajibsbaba.com",
     "icon": "https://icons.duckduckgo.com/ip3/trm.ajibsbaba.com.ico",
     "slug": "trm-web-app",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 208,
-    "timeDay": 79,
-    "timeWeek": 160,
+    "timeDay": 128,
+    "timeWeek": 162,
     "timeMonth": 168,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-01-20": 0,
+      "2024-01-20": 33,
       "2023-09-11": 58
     }
   }
